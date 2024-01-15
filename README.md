@@ -1,2 +1,2 @@
-# TUGAS-IOT-XPPLG7
-Latihan IOT untuk X PPLG 7
+# TUGAS IOT XPPLG7
+Kumpulan Tugas dan Latihan IOT untuk X PPLG 7
